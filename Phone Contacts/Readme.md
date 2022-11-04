@@ -1,5 +1,5 @@
 # Phone Contacts app
-A  first-year college project to make a Phone contacts app in C language using advanced data structures and dynamically allocated Linked list
+A  first-year college project to make a simulation Phone contacts app in C language using advanced data structures and dynamically allocated Linked list
 it has the following features
 * Add phone contact
 * Edit an existing Contact
